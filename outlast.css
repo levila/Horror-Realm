@@ -1,0 +1,25 @@
+﻿body {
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 29%, rgba(29,29,29,1) 100%);
+}
+h1 {
+    border-style: solid;
+    border-radius: 7px;
+    border-width: 3px;
+    border-color: #183423;
+    background: #0F2317;
+}
+img {
+    display: inline-block;
+    margin: 25px 10px;
+    float: left;
+    width: 300px;
+    border: 3px solid #183423;
+}
+html {
+    line-height: 1.2;
+    color: #3C3C3C;
+}
+.checked {
+    color: orange;
+}
